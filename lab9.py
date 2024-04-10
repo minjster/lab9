@@ -42,3 +42,15 @@ if __name__ == "__main__":
     main()
 
 
+#mollys decode
+
+#def decode(encoded_password):
+    #original_password = ""
+    #for digit in encoded_password:
+        #original_digit = str((int(digit) - 3) % 10)  # Shift the digit down by 3 and handle wrap-around
+        #original_password += original_digit
+
+    #return original_password
+
+
+
